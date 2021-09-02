@@ -1,5 +1,5 @@
 {
-    "code-runner.showRunIconInEditorTitleMenu": true
+    "code-runner.showRunIconInEditorTitleMenu": true,
     "code-runner.runInTerminal": true,
     "files.encoding": "shiftjis",
     "terminal.integrated.fontSize": 16
